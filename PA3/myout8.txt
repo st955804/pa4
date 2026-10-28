@@ -1,0 +1,19 @@
+[EVENT] Deposited to Will's PC: Apex (Dragon, Lv: 100, HP: 200)
+[EVENT] Deposited to Will's PC: Apex (Dragon, Lv: 50, HP: 100)
+[EVENT] Deposited to Will's PC: Apex (Dragon, Lv: 10, HP: 50)
+[EVENT] Withdrew 3 monster(s) from Will's PC to Active Roster.
+--- WILL'S PC STATUS ---
+Storage Box Queue (0): EMPTY
+Active Roster (3): Apex [Lv: 100] -> Apex [Lv: 50] -> Apex [Lv: 10]
+------------------------
+[EVENT] Returned Apex from Active Roster back to Will's PC.
+--- WILL'S PC STATUS ---
+Storage Box Queue (1): Apex [Lv: 100]
+Active Roster (2): Apex [Lv: 50] -> Apex [Lv: 10]
+------------------------
+[EVENT] Returned Apex from Active Roster back to Will's PC.
+--- WILL'S PC STATUS ---
+Storage Box Queue (2): Apex [Lv: 100] -> Apex [Lv: 50]
+Active Roster (1): Apex [Lv: 10]
+------------------------
+[EVENT] Logged off Will's PC.

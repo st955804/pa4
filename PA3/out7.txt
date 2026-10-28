@@ -1,0 +1,20 @@
+[EVENT] Deposited to Will's PC: Ghosty (Ghost, Lv: 50, HP: 0)
+[EVENT] Deposited to Will's PC: Zombie (Poison, Lv: 40, HP: 0)
+[EVENT] Deposited to Will's PC: Skeleton (Normal, Lv: 30, HP: 0)
+[EVENT] Withdrew 3 monster(s) from Will's PC to Active Roster.
+--- WILL'S PC STATUS ---
+Storage Box Queue (0): EMPTY
+Active Roster (3): Ghosty [Lv: 50] -> Zombie [Lv: 40] -> Skeleton [Lv: 30]
+------------------------
+[EVENT] Released 0 fainted monster(s) with HP below 0.
+--- WILL'S PC STATUS ---
+Storage Box Queue (0): EMPTY
+Active Roster (3): Ghosty [Lv: 50] -> Zombie [Lv: 40] -> Skeleton [Lv: 30]
+------------------------
+[EVENT] Withdrew 0 monster(s) from Will's PC to Active Roster.
+[EVENT] Released 3 fainted monster(s) with HP below 100.
+--- WILL'S PC STATUS ---
+Storage Box Queue (0): EMPTY
+Active Roster (0): EMPTY
+------------------------
+[EVENT] Logged off Will's PC.
